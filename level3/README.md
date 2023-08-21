@@ -28,3 +28,8 @@
 - now that the layer exists, go back to the menu you were on and add it
 
 Now you don't have to zip everything every time you change the source code, as long as the libraries you need don't change, the layer can stay the same and be shared amonst several lambda functions.
+
+
+## Note
+
+I wasn't able to run this example, I got a timeout from javascript, however, I know that the layer was successfully uploaded because I no longer got the error "module not found", so that was the purpose of this tutorial, and I'm giving up on javascript, lol.
